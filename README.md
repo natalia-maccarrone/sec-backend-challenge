@@ -9,6 +9,12 @@ npm install
 npm start
 ```
 
+## How to run the tests
+
+```
+npm run test
+```
+
 ## Endpoint
 
 `POST /localhost:4000/dev/findTwoBeers`
